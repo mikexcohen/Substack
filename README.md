@@ -1,5 +1,3 @@
-# Mike X Cohen's Substack
-
 I have a Substack :)
 
 https://mikexcohen.substack.com/
@@ -20,7 +18,7 @@ Explore core concepts in data science and applied math through clear explanation
 |    :---:   |    :---:   |      :---:        |
 | [Correlation vs. cosine similarity](https://mikexcohen.substack.com/p/correlation-vs-cosine-similarity) |  [Correlation_vs_cosineSimilarity.ipynb](https://github.com/mikexcohen/Substack/blob/main/DSUnpacked/Correlation_vs_cosineSimilarity.ipynb) | Simulate data to learn the math and implementations of correlation and cosine similarity. |
 | [Zipf's law in famous fiction: characters and GPT4 tokens](https://mikexcohen.substack.com/p/zipfs-law-in-famous-fiction-characters) |  [ZipfsLaw_charactersTokens.ipynb](https://github.com/mikexcohen/Substack/blob/main/DSUnpacked/ZipfsLaw_charactersTokens.ipynb) | Explore character and subword (GPT4 tokens) frequencies in famous fiction books. |
-| [The Fourier transform, explained with for-loops](https://mikexcohen.substack.com/p/) |  [Fourier_with_forloops.ipnyb](https://github.com/mikexcohen/Substack/blob/main/DSUnpacked/Fourier_with_forloops.ipynb) | Learn how the Fourier transform works, using for-loops in Python. |
+| [The Fourier transform, explained with for-loops](https://open.substack.com/pub/mikexcohen/p/the-fourier-transform-explained-with) |  [Fourier_with_forloops.ipnyb](https://github.com/mikexcohen/Substack/blob/main/DSUnpacked/Fourier_with_forloops.ipynb) | Learn how the Fourier transform works, using for-loops in Python. |
 
 
 
