@@ -33,3 +33,24 @@ Understand how large language models (LLMs) really work by applying machine lear
 | Post title |  Code file | Brief description |
 |    :---:   |    :---:   |      :---:        |
 | [Drawing text heatmaps to visualize LLM calculations](https://mikexcohen.substack.com/p/drawing-text-heatmaps-to-visualize) |  [textHeatmaps_GPT2.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/textHeatmaps_GPT2.ipynb) | Learn how to create text heatmaps, and then use them to visualize GPT2 next-token predictions. |
+| [LLM breakdown 1/6: Tokenization (words to integers)](https://mikexcohen.substack.com/p/llm-breakdown-16-tokenization-words) |  [LLMbreakdown_1_tokens.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_1_tokens.ipynb) | Learn how text is transformed into "tokens" that represent (and often compress) subwords. |
+| [LLM breakdown 2/6: Logits and next-token prediction](https://mikexcohen.substack.com/p/llm-breakdown-26-logits-and-next) |  [LLMbreakdown_2_logits.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_2_logits.ipynb) | Learn how the model outputs are used to generate new text. |
+| [LLM breakdown 3/6: Embeddings](https://mikexcohen.substack.com/p/llm-breakdown-36-embeddings) |  [LLMbreakdown_3_embeddings.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_3_embeddings.ipynb) | LLMs actually work with embeddings vectors. Learn all about them! |
+| [LLM breakdown 4/6: Transformer outputs (hidden states)](https://mikexcohen.substack.com/p/llm-breakdown-46-transformer-outputs) |  [LLMbreakdown_4_hiddenStates.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_4_hiddenStates.ipynb) | Transformers are the heart and soul of modern language models. Learn how to interpret and manipulate them. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
