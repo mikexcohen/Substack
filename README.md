@@ -37,8 +37,8 @@ Understand how large language models (LLMs) really work by applying machine lear
 | [LLM breakdown 2/6: Logits and next-token prediction](https://mikexcohen.substack.com/p/llm-breakdown-26-logits-and-next) |  [LLMbreakdown_2_logits.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_2_logits.ipynb) | Learn how the model outputs are used to generate new text. |
 | [LLM breakdown 3/6: Embeddings](https://mikexcohen.substack.com/p/llm-breakdown-36-embeddings) |  [LLMbreakdown_3_embeddings.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_3_embeddings.ipynb) | LLMs actually work with embeddings vectors. Learn all about them! |
 | [LLM breakdown 4/6: Transformer outputs (hidden states)](https://mikexcohen.substack.com/p/llm-breakdown-46-transformer-outputs) |  [LLMbreakdown_4_hiddenStates.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_4_hiddenStates.ipynb) | Transformers are the heart and soul of modern language models. Learn how to interpret and manipulate them. |
-
-
+| [LLM breakdown 5/6: Attention](https://mikexcohen.substack.com/p/llm-breakdown-56-attention) |  [LLMbreakdown_5_attention.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_5_attention.ipynb) | The attention algorithm that transformed AI is at your Pythonic fingertips. |
+| [LLM breakdown 6/6: MLP](https://mikexcohen.substack.com/p/llm-breakdown-66-mlp) |  [LLMbreakdown_6_MLP.ipynb](https://github.com/mikexcohen/Substack/blob/main/MLonLLMs/LLMbreakdown_6_MLP.ipynb) | The expansion-contraction layer that opens new possibilities. |
 
 
 
